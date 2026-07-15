@@ -23,14 +23,6 @@
 
 ---
 
-### 🌐 Connect With Me
-
-- **Telegram:** [@takeru1020](https://t.me/takeru1020)
-- **Discord:** @takeru001020
-- **WhatsApp:** [+1 978-641-9418](https://wa.me/19786419418)
-
----
-
 <!-- Optional: Personal motto or fun fact -->
 <!-- "Code is poetry. Let's build something amazing together!" -->
 
